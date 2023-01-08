@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Ahmed Hasan Rony </h1>
-<br/>from <a style="{text-decoration:none;color:blue;font-size:40px;}" href="dr-sight.github.io">drsight.org</a>
+<br/>from <a href="dr-sight.github.io"><span style="font-size:40px">drsight.org</span></a>
 <h3 align="center">A Software Developer and Cyber Security Engineer </h3>
 <div id="header" align="center">
-  <img src="https://media.gipdr-sight.github.io"hdrsight.org</a>y.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200"/>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=roniy68&label=Profile%20views&color=0e75b6&style=flat" alt="roniy68" /> </p>
